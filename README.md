@@ -66,7 +66,7 @@ Additional usage examples are available in the `examples` directory via [GitHub]
 | gitignore_template | Template to use for initial `.gitignore` file for the Repository. | `string` | `null` | no |
 | has_downloads | Toggle to enable (deprecated) GitHub Downloads for the Repository. | `bool` | `false` | no |
 | has_issues | Toggle to enable GitHub Issues for the Repository. | `bool` | `true` | no |
-| has_projects | Toggle to enable GitHub Projects for the Repository. | `bool` | `false` | no |
+| has_projects | Toggle to enable GditHub Projects for the Repository. | `bool` | `false` | no |
 | has_wiki | Toggle to enable GitHub Wiki for the Repository. | `bool` | `false` | no |
 | homepage_url | URL of a page describing the Repository. | `string` | `null` | no |
 | is_template | Toggle to enable Template use for the Repository. | `bool` | `false` | no |
