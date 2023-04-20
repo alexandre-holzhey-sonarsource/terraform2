@@ -102,7 +102,7 @@ Additional usage examples are available in the `examples` directory via [GitHub]
 ### Upgrades from `3.0.0` to `4.x.x`
 
 As part of the updates and upgrades that were made for the `4.x.x` release, all Terraform resource identifiers were renamed from `this` to `main`.
-See [`./moved.tf`](https://github.com/ksatirli/terraform-github-repository/blob/main/moved.tf) and the [Terraform documentation](https://developer.hashicorp.com/terraform/language/modules/develop/refactoring#moved-block-syntax) for more information.
+See [`./moved.tf`](https://github.com/ksatirli/terraform-github-repository/blob/main/moved.tf) and the [Terraform documentation](https://developer.hashicorp.com/terraform/lafnguage/modules/develop/refactoring#moved-block-syntax) for more information.
 
 #### Branch for GitHub Pages
 
