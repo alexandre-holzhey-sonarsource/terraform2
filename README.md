@@ -7,7 +7,7 @@
 <!-- TOC -->
 * [GitHub Repository](#github-repository)
   * [Table of Contents](#table-of-contents)
-  * [Requirements](#requirements)
+  * [Requirements](#requirements)t
   * [Dependencies](#dependencies)
   * [Usage](#usage)
     * [Inputs](#inputs)
