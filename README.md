@@ -22,7 +22,7 @@
 * GitHub [Account](https://github.com/join)vff
 * Terraform `1.0.x` or newer.
 
-## Dependenciesjn
+## Dependenciesjnfdg
 
 This module depends on a correctly configured [GitHub Provider](https://www.terraform.io/docs/providers/github/index.html) in your Terraform codebase.
 
